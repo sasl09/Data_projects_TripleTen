@@ -83,6 +83,7 @@ https://public.tableau.com/views/FinalProjectStoryTelling_17227402019950/Story?:
 -FinalProjectStoryTelling.pdf<br>
 -Superstore.xls<br>
 -SuperstoreLogo.png<br>
+-images
 
 ## Author
 
