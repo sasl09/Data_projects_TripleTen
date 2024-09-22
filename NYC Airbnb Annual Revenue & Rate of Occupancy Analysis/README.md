@@ -63,6 +63,7 @@ https://docs.google.com/spreadsheets/d/1CZBgfRgvZwWgDAKBp3WXUPOn6lG9mkLgoVDCNE3k
 
 -README.md<br>
 -nyc_airbnb_data_06-20-24_v5.1.xlsx<br>
+-images
 
 ## Author
 
