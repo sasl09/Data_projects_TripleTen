@@ -1,11 +1,18 @@
 
 ## Superstore: Return Metrics Analysis
 
-This dataset contains 3 tables: Orders, People and Returns. Orders is the main source of information for this analysis projects, as it contains 27 columns and 12420 rows.
+## Introduction:
 
-A left Join was performed on the Returns table as its information was necessary for the calculation of relevant metrics.
+At the end of this presentation, you will be able to use three fundamental metrics for
+Return Analysis on the Superstore data. You will be able to filter out and/or
+pre-determine parameters for grouping, analyzing and displaying different results,
+in order to obtain insights out of the data.
 
-Throughout the analysis, the following was found:
+## Process: 
+
+A left Join was performed on the Returns table as its information was necessary for the calculation of relevant metrics. <br>
+
+Throughout the analysis, the following was found: <br>
 
 -Customers with the highest Return Metric Values.<br>
 -Locations with the highest Return Metric Values.<br>
@@ -16,7 +23,9 @@ Throughout the analysis, the following was found:
 
 ## Content
 
-The workbook contains the following sheets along with descriptions and findings on their captions:
+This dataset contains 3 tables: Orders, People and Returns. Orders is the main source of information for this analysis projects, as it contains 27 columns and 12420 rows. <br>
+
+The workbook contains the following sheets along with descriptions and findings on their captions: <br>
 
 -Data Source<br>
 -Total Sales & Total Return Metrics Values<br>
@@ -38,11 +47,29 @@ The workbook contains the following sheets along with descriptions and findings 
 The workbook also contains the following dashboards and Stories for comparative analysis purposes:
 
 -Dashboard Analysis 1<br>
+
+![Dashboard 1](images/dashboard1.png)
+
 -Dashboard Analysis 2<br>
+
+
+![Dashboard 2](images/dashboard2.png)
+
 -Dashboard Analysis 3<br>
+
+![Dashboard 3](images/dashboard3.png)
+
 -Logo<br>
--Draft Story<br>
+
+![Logo](images/logo.png)
+
 -Story<br>
+
+![Story](images/story.png)
+
+## Conclusions and Recommendations:
+
+![Conclusions and Recommendations](images/conclusions.png)
 
 ## Tableau Public Link
 
