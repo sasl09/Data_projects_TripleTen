@@ -5,7 +5,7 @@
 
 ## Introduction: 
 
-From what can be seen from the information on the tables and after running a few totals and averages, it seems that sales are influenced by the type of food customers consume and the location of the venues. Nevertheless, we will of course get a much clearer picture of what is really happening with our data after creating visualizations of combined variables and characteristics (such as: Age, Gender, Monthly Income, Education Level, etc). <br>
+From what can be seen after running a few totals and averages on the data, it seems that sales are influenced by the type of food customers consume and the location of the venues. Nevertheless, we will of course get a much clearer picture of what is really happening with our data after creating visualizations of combined variables and characteristics (such as: Age, Gender, Monthly Income, Education Level, etc). <br>
 
 It will be necessary to create new tables and columns with clean and filtered information and or calculations. Furthermore, it should be considered that certain variables be converted into categorical in order to find out if that conversion could prove useful to our analysis. <br>
 
