@@ -10,17 +10,22 @@ This dataset is located on the Tripleten online teaching platform and it contain
 ## Process
 Data exploration tasks:
 
-![Task 1](sql1.png)
+![Task 1](images/sql1.png)
 <br>
-![Task 2](sql2.png)
+
+![Task 2](images/sql2.png)
 <br>
-![Task 3](sql3.png)
+
+![Task 3](images/sql3.png)
 <br>
-![Task 4](sql4.png)
+
+![Task 4](images/sql4.png)
 <br>
-![Task 5](sql5.png)
+
+![Task 5](images/sql5.png)
 <br>
-![Task 6](sql6.png)
+
+![Task 6](images/sql6.png)
 
 The table columns should be in the following order: 
 
