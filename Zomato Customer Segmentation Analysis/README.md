@@ -1,9 +1,11 @@
 
 ## Zomato: Customer Segmentation Analysis
 
+## Introduction: 
+
 This dataset originally contains 5 tables: Orders, Menu, Restaurant, Users and Food. Menu is the largest table, as it contains 1,179.936 rows.
 
-Data Modeling:
+## Process: 
 
 -Power BI automatically joined the food-menu, orders-users tables as a Many to 1 relationship (*:1) on their row ID column and their user_id respectively.
 -Power BI automatically joined the menu-restaurant, menu-users tables as a 1 to 1 relationship (1:1) on their row ID column.
@@ -19,14 +21,6 @@ Data Modeling:
 -A new column called name_clean was created in the restaurant table, in order to replace all blank rows with the names of the restaurants extracted from the url_names column.
 -A new column called rating_clean was created in the restaurant table, in order to replace all blank rows with "No Rating".
 -A new column called rating_count_clean was created in the restaurant table, in order to replace all blank rows with "No Rating".
-
-Throughout the analysis, the following was found:
-
--Retention Rates are lower than 10%.<br>
--A Target Customer Profile to improve sales and Retention Rates.<br>
--Top 12 Cities to run marketing campaigns.<br>
--"Too Few Ratings" holds the majority of the distribution of Ratings.<br>
--Marketing Campaigns could have better results on Restaurants with Total Sales Average above $500K and within the Average Cost per Person.<br>
 
 ## Content
 
@@ -52,6 +46,16 @@ The workbook contains the following sheets along with descriptions and findings 
 -Ratings, Cities and Cuisine Summary<br>
 -Target Customer<br>
 
+## Conclusion and Recommendations: 
+
+### Throughout the analysis, the following was found:
+
+-Retention Rates are lower than 10%.<br>
+-A Target Customer Profile to improve sales and Retention Rates.<br>
+-Top 12 Cities to run marketing campaigns.<br>
+-"Too Few Ratings" holds the majority of the distribution of Ratings.<br>
+-Marketing Campaigns could have better results on Restaurants with Total Sales Average above $500K and within the Average Cost per Person.<br>
+
 ## Power BI Service Link
 
 https://app.powerbi.com/groups/me/reports/cb6485df-1720-48c2-9975-d665aba1e909/1af928add86a0eb010b8?experience=power-bi
@@ -61,6 +65,7 @@ https://app.powerbi.com/groups/me/reports/cb6485df-1720-48c2-9975-d665aba1e909/1
 -README.md<br>
 -ZomatoCustomerSegmentationAnalysisPresentation.pdf<br>
 -Zomato_data<br>
+-images
 
 ## Due to the size of .pbix files, you will have to use the link above to have access to the file.
 -ZomatoCustomerSegmentationAnalysis.pbix<br>
